@@ -1,0 +1,9 @@
+name = "my-site"
+type = "webpack"
+account_id = "CF_ACCOUNT_ID"
+workers_dev = true
+route = "/workers-site"
+zone_id = ""
+
+[site]
+bucket = "./public"

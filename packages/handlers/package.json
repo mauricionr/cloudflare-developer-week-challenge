@@ -1,6 +1,6 @@
 {
   "name": "handlers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "mauricionr <mauricioskateboard@gmail.com>",
   "homepage": "https://github.com/mauricionr/cloudflare-developer-week-challenge#readme",
@@ -22,6 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/mauricionr/cloudflare-developer-week-challenge/issues"
-  },
-  "gitHead": "1fc605c8c2ead5ad21e2d98cabbb6f932d4d5c51"
+  }
 }

@@ -1,6 +1,6 @@
-name = "api"
+name = "my-api"
 type = "javascript"
 account_id = "CF_ACCOUNT_ID"
 workers_dev = true
-route = "/api"
+route = "/my-api"
 zone_id = ""

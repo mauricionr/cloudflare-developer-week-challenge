@@ -3,5 +3,5 @@
 module.exports = handlers;
 
 function handlers() {
-    // TODO
+    console.log('Handler');
 }
