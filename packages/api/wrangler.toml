@@ -1,6 +1,6 @@
-name = "awesome-beers"
+name = "api"
 type = "javascript"
 account_id = ${CF_ACCOUNT_ID}
 workers_dev = true
-route = ""
+route = "/api"
 zone_id = ""
