@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "public-api",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A template for kick starting a Cloudflare Workers project",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "mauricionr <mauricioskateboard@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "handlers": "1.0.2"
+    "handlers": "^1.0.3"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
